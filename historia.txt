@@ -3,6 +3,8 @@ tengo 30 años de edad y me gustaria aprender a programar para poder
 complementar mi titulo de ingeniero.
 
 
-ya conozco de arduino y quiero aprender python y de git
+ya aprendi de arduino y quiero aprender python, raspberry pi  y de git
 
 esta es mi historia que inicia hoy.
+
+hemos realizado 3 commmit en git desde la consola, poco a poco vamos progresando
