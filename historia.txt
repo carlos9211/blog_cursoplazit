@@ -9,4 +9,4 @@ esta es mi historia que inicia hoy.
 
 hemos realizado 3 commmit en git desde la consola, poco a poco vamos progresando
 
-ya somos ingenieros electronicos
+ya somos ingenieros electronicos y  tecnico en sistemas
