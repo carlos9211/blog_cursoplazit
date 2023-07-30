@@ -38,14 +38,7 @@ body
     border: 1px solid #DDD;
     margin: 0 auto;
 }
-#contaniner 
-{
-    width: 70%;
-    padding: 0;
-    text-align: left;
-    border: 1px solid #DDD;
-    margin: 0 auto;
-}
+
 #container h1
 {
     font-size: 20px;
